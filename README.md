@@ -2,7 +2,7 @@ Salut je vais mettre et héberger les jeux PS4 et pour l'application FPKGI je va
 
 [ L'application FPKGI By ItsJokerZz's et le fichier .json By me ]
 
-pour Dl FPKGI https://github.com/ItsJokerZz
+pour DL FPKGI https://github.com/ItsJokerZz
 
 De nouveau jeux arrive !
 
