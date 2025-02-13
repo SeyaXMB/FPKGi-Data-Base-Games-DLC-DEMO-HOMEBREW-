@@ -5,3 +5,5 @@ Lien D'un serveur Comu Console et Jailbrek https://discord.gg/lbxmb
 
 TUTO
 DL le fichier UPDATE ensuite connecte toi avec Filezila a ta PS4 ensuite vous aller a /data/FPKGi et vous glisser votre fichier que vous avez DL ici ensuite vous relancer FPKGI et c'est bon : ]
+
+Important avant de faire tout sa vous devez avoir lancer au moin 1 fois FPKGI sur votre console !
