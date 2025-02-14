@@ -1,24 +1,29 @@
-# Nouveau 
+# 🎮 Data / Base / Games DLC / DEMO / HOMEBREW for FPKGI (Pkgi PS4 version)
 
-Vous pouvez maintenant DL le fichier GAMES dans se fichier il y a un peut plus de jeux 
+> [!NOTE]
+> You will need to run FPKGI at least once on your console before doing any of this!
 
-Salut je vais mettre et héberger les jeux PS4 et pour l'application FPKGI je vais du coups vous fournir les fichier .json GAMES ,DEMO,HOMEBREW que vous aller mettre sur dans votre dossier /data/FPKGi/  
+## Informations
+You can now DL the GAMES file in this file there are a few more games
 
-[ L'application FPKGI By ItsJokerZz's et le fichier .json By me ]
+Hi, I will put and host the PS4 games and for the application FPKGI I will of course provide you with the files .json GAMES ,DEMO,HOMEBREW that you are going to put on in your/data/FPKGi/
 
-pour DL FPKGI https://github.com/ItsJokerZz
+- **For DL FPKGI**: [FPKGI Releases](https://github.com/ItsJokerZz/FPKGi/releases)
 
-De nouveau jeux arrive !
+New games are coming!
 
-# TUTO
-DL le fichier UPDATE ensuite connecte toi avec Filezila a ta PS4 ensuite vous aller a /data/FPKGi et vous glisser votre fichier que vous avez DL ici ensuite vous relancer FPKGI et c'est bon : ]
+## Setup Instructions
+Download the games in .json format: [Click the download raw file in this page](https://github.com/SeyaXMB/FPKGi-Data-Base-Games-DLC-DEMO-HOMEBREW-/blob/main/GAMES.json)
 
-# Important 
+## 🧭 How to do?
+Dl the UPDATE file then connect with Filezila has your PS4 then you go to/data/FPKGi and drag your file that you have DL here then relaunch you FPKGI and it’s good
 
-avant de faire tout sa vous devez avoir lancer au moin 1 fois FPKGI sur votre console !
+### 🚧 Need Help?
+🚨 If you need help, please click here https://discord.gg/lbxmb
+🔗 Link from a Community Console and Jailbreak server https://discord.gg/lbxmb
 
-# Support 
-
-Si vous avez besoin d'aide  vennez ici https://discord.gg/lbxmb 
-
-Lien D'un serveur Comu Console et Hack https://discord.gg/lbxmb
+## Special Thanks
+- **Original App Creator**: [Bucanero](https://www.github.com/bucanero)
+- **Original PKGi Music**: [nobodo](https://www.github.com/nobodo)
+- **FPKGI Creator**: [ItsJokerZz](https://github.com/ItsJokerZz)
+- **FPKGI Database Readme writer**: [frenchopium]
