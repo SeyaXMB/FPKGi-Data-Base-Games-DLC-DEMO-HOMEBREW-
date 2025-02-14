@@ -15,6 +15,6 @@ DL le fichier UPDATE ensuite connecte toi avec Filezila a ta PS4 ensuite vous al
 
 Important avant de faire tout sa vous devez avoir lancer au moin 1 fois FPKGI sur votre console !
 
-Si vous avez besoind d'aide  vennez ici https://discord.gg/lbxmb 
+Si vous avez besoin d'aide  vennez ici https://discord.gg/lbxmb 
 
 Lien D'un serveur Comu Console et Jailbrek https://discord.gg/lbxmb
