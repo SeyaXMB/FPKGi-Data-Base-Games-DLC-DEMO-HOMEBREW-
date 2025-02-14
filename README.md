@@ -21,4 +21,4 @@ avant de faire tout sa vous devez avoir lancer au moin 1 fois FPKGI sur votre co
 
 Si vous avez besoin d'aide  vennez ici https://discord.gg/lbxmb 
 
-Lien D'un serveur Comu Console et Jailbrek https://discord.gg/lbxmb
+Lien D'un serveur Comu Console et Hack https://discord.gg/lbxmb
