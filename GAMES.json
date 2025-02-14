@@ -1,0 +1,55 @@
+{
+  "DATA": {
+    "https://store10.gofile.io/download/web/9a971a00-f4e8-4ca5-ab3c-5a297bbddb7e/Crash%20Bandicoot%20Quality%20of%20Life-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA00000",
+      "region": "USA",
+      "name": "Crash Bandicoot",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "12.00",
+      "cover_url":""
+  }
+}
+
+{
+  "DATA": {
+    "https://store5.gofile.io/download/web/82767073-04d1-455e-bc3f-7b0dd2eaefde/%5BDLPSGAME.COM%5D-1243.pkg": {
+      "title_id": "CUSA00000",
+      "region": "USA",
+      "name": "Crash Bandicoot 2 Cortex Strikes Back",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "12.00",
+      "cover_url":""
+  }
+}
+
+{
+  "DATA": {
+    "https://store10.gofile.io/download/web/a5d5c404-f269-4a3d-b7f1-5be5eb7484a9/UP9000-SLES50386_00-SLES503860000001-A0100-V0100.pkg": {
+      "title_id": "CUSA00000",
+      "region": "USA",
+      "name": "Crash Bandicoot The Wrath of Cortex",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "12.00",
+      "cover_url":""
+  }
+}
+
+{
+  "DATA": {
+    "https://store10.gofile.io/download/web/9b00e241-4f52-402a-adc4-04201cbb1a23/ZAT_01345%20-%201.00%20Game%20-%20%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA00000",
+      "region": "USA",
+      "name": "Zombie Army Trilogy",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "12.00",
+      "cover_url":""
+  }
+}
