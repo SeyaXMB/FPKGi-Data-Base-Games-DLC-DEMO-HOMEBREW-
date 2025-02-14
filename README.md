@@ -13,7 +13,7 @@ De nouveau jeux arrive !
 # TUTO
 DL le fichier UPDATE ensuite connecte toi avec Filezila a ta PS4 ensuite vous aller a /data/FPKGi et vous glisser votre fichier que vous avez DL ici ensuite vous relancer FPKGI et c'est bon : ]
 
-Important avant de faire tout sa vous devez avoir lancer au moin 1 fois FPKGI sur votre console !
+# Important avant de faire tout sa vous devez avoir lancer au moin 1 fois FPKGI sur votre console !
 
 Si vous avez besoin d'aide  vennez ici https://discord.gg/lbxmb 
 
