@@ -13,7 +13,7 @@ Hi, I will put and host the PS4 games and for the application FPKGI I will of co
 New games are coming!
 
 ## Setup Instructions
-Download the games in .json format: [Click the download raw file in this page][(https://github.com/SeyaXMB/FPKGi-Data-Base-Games-DLC-DEMO-HOMEBREW-/blob/main/GAMES.json](https://github.com/SeyaXMB/FPKGi-Data-Base-Games-DLC-DEMO-HOMEBREW-/releases/tag/PS4)
+Download the games in .json format: [Click the download raw file in this page][(https://github.com/SeyaXMB/FPKGi-Data-Base-Games-DLC-DEMO-HOMEBREW-/blob/main/GAMES.json](https://github.com/SeyaXMB/FPKGi-Data-Base-Games-DLC-DEMO-HOMEBREW-/releases/tag/PS4)]
 
 ## 🧭 How to do?
 Dl the UPDATE file then connect with Filezila has your PS4 then you go to/data/FPKGi and drag your file that you have DL here then relaunch you FPKGI and it’s good
