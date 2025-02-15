@@ -27,3 +27,5 @@ Dl the UPDATE file then connect with Filezila has your PS4 then you go to/data/F
 - **Original PKGi Music**: [nobodo](https://www.github.com/nobodo)
 - **FPKGI Creator**: [ItsJokerZz](https://github.com/ItsJokerZz)
 - **FPKGI Database Readme writer**: frenchopium
+
+![image](https://github.com/user-attachments/assets/0f20993b-9264-435e-ab78-a9bddd08eacc)
